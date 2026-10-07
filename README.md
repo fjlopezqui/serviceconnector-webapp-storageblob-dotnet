@@ -8,7 +8,7 @@ products:
 urlFragment: serviceconnector-webapp-storageblob-dotnet
 ---
 
-# Using Service Connector to connect Azure WebApp with Azure Storage Blob
+# using service connector to connect Azure WebApp with Azure Storage Blob
 
 The repository offers the sample codes of connecting Azure Storage Blob to Azure WebApp with `system managed identity`. Follow the [steps](#getting-started) below to create and verify the connection.
 
