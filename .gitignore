@@ -361,6 +361,8 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
+.env
+
 src/Cupertino.Web/Properties/ServiceDependencies/
 src/Cupertino.Web/Properties/serviceDependencies.json
 src/Cupertino.Web/Properties/serviceDependencies.*.json
